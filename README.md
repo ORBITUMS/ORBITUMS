@@ -1,3 +1,3 @@
-## Hi there 👋
-![Статистика GitHub](https://vercel.app)
+## обновлю позже
+
 
