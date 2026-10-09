@@ -52,6 +52,11 @@ loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 - 💬 **Спроси меня о:** кодинге, SaaS, лучших решениях.
 - ⚡ **Увлечения:** шахматы, YouTube, обучение
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/orbitums/orbitums/output/snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/orbitums/orbitums/output/snake-dark.svg#gh-dark-mode-only" />
+</p>
+
 <h2 align="center">⚡ activity</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
@@ -60,7 +65,7 @@ loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xd450&style=for-the-badge&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=orbitums&style=for-the-badge&color=8A2BE2" />
 </p>
 
 <p align="center">
