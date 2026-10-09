@@ -1,19 +1,38 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Привет,%20я%20XD450!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:39FF14&height=200&section=header&text=Привет,+я+XD450!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-### 🧩 Языки программирования
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h2 align="center">About</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
-### 📡 Инструменты и технологии
+loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
+<p align="center">
+  <a href="https://orbitums.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=39FF14" /></a>&nbsp;
+  <a href="mailto:orbitumgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>&nbsp;
+  <a href="mailto:xd450@keemail.com"><img src="https://img.shields.io/badge/Keemail-000000?style=for-the-badge&logo=maildotru&logoColor=39FF14" /></a>&nbsp;
+  <a href="https://t.me/xd450"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=39FF14" /></a>
+</p>
+
+<h2 align="center">Сore skills</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,java,kotlin,rust,js,lua,ts&theme=dark&perline=8" alt="core skills" />
+</p>
+
+
+- <b>languages</b>: Go • Python • Java • Kotlin • Rust • JavaScript • Lua • TypeScript
+<!--
+- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
+- **backend**: FastAPI • Node.js • Express • REST APIs • RPC
+- **databases**: SQLite • PostgreSQL • Redis
+- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
+-->
+
+
+<h2 align="center">tools & hardware</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -21,24 +40,29 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Научные и специализированные инструменты
-
 
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-## 🌙 Обо мне
+
+<h2 align="center">🌙 Обо мне</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
+
+
 - 🔭 **Сейчас работаю над:** Командой
 - 🌱 **Изучаю:** голанг, софтскилы в команде, тимлидерство
-- ⌨️ **Возможно потом изучу:**
-   
-  ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-- 💬 **Спроси меня о:** кодинге, саасах, лучших решениях.
-- ⚡ **Увлечения:**
-  
- ![Chess](https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chess.com&logoColor=white)
- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+- 💬 **Спроси меня о:** кодинге, SaaS, лучших решениях.
+- ⚡ **Увлечения:** шахматы, YouTube, обучение
 
+<h2 align="center">⚡ activity</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
-- ## 🌐 Связаться со мной
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](
-https://orbitums.github.io)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xd450)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orbitums&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xd450&style=for-the-badge&color=8A2BE2" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:39FF14&height=120&section=footer" />
+</p
