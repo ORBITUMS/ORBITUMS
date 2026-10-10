@@ -5,7 +5,10 @@
 <h2 align="center">About</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
-loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
+Ever since I was little, I’ve been drawn to serious academic subjects, chess, and books. In school I competed in Olympiads and was one of the top students in many subjects. I graduated with honors with a 9.6/10 and I’m studying at the Minsk State College of Digital Technologies. I still read a lot of books, I always enjoy meeting new people, and welcome to my GitHub.
+
+( I’ve also competed in chess tournaments — I’m down to play you too, mwahaha. )
+
 <p align="center">
   <a href="https://orbitums.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=39FF14" /></a>&nbsp;
   <a href="mailto:orbitumgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>&nbsp;
@@ -43,14 +46,13 @@ loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
-<h2 align="center">🌙 Обо мне</h2>
+<h2 align="center">🌙 Who I Am</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
-
-- 🔭 **Сейчас работаю над:** Командой
-- 🌱 **Изучаю:** голанг, софтскилы в команде, тимлидерство
-- 💬 **Спроси меня о:** кодинге, SaaS, лучших решениях.
-- ⚡ **Увлечения:** шахматы, YouTube, обучение
+- 🔭 **Currently working on:** The team
+- 🌱 **Learning:** Golang, soft skills in a team, team leadership, x64, translators
+- 💬 **Ask me about:** coding, SaaS, best solutions
+- ⚡ **Interests:** chess, YouTube, learning
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/orbitums/orbitums/output/snake.svg#gh-light-mode-only" />
