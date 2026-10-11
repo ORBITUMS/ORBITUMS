@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:39FF14&height=200&section=header&text=Привет,+я+XD450!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:39FF14&height=200&section=header&text=What's+up?+I'm+XD450&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">About</h2>
