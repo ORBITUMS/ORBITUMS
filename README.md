@@ -49,7 +49,7 @@ Ever since I was little, I’ve been drawn to serious academic subjects, chess, 
 <h2 align="center">🌙 Who I Am</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:39FF14&height=3&section=header" />
 
-- 🔭 **Currently working on:** The team
+- 🔭 **Currently working on:** The team and SaaSs
 - 🌱 **Learning:** Golang, soft skills in a team, team leadership, x64, translators
 - 💬 **Ask me about:** coding, SaaS, best solutions
 - ⚡ **Interests:** chess, YouTube, learning
